@@ -7,7 +7,7 @@
   ],
   "window": {
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "有梦书架",
+    "navigationBarTitleText": "吾书斋",
     "navigationBarTextStyle": "black",
     "backgroundColor": "#F3F3F3"
   },
@@ -18,7 +18,7 @@
     "borderStyle": "white",
     "list": [{
       "pagePath": "pages/index/index",
-      "text": "书架",
+      "text": "书房",
       "iconPath": "./images/tabBar-list02.png",
       "selectedIconPath":"./images/tabBar-select-list02.png"
     }, {
